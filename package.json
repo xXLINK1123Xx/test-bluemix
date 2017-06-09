@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "kek",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xXLINK1123Xx/test-bluemix.git"
+  },
+  "keywords": [
+    "nodejs",
+    "bluemix"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xXLINK1123Xx/test-bluemix/issues"
+  },
+  "homepage": "https://github.com/xXLINK1123Xx/test-bluemix#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
